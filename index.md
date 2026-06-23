@@ -58,18 +58,41 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
-```c++
-void setup() {
-  // put your setup code here, to run once:
+///
+
+const   int ledpin = 13; // ledpin and lightpin are not changed throughout the process
+const   int lightpin = A2;
+const   int ledpin2 = 12;
+const   int lightpin2 = A1;
+const int LIGHT = 75;
+const int LIGHT2 = 650; // sets LIGHT value for light sensor
+void   setup() {
   Serial.begin(9600);
-  Serial.println("Hello World!");
+  pinMode(ledpin, OUTPUT);
+  pinMode(lightpin,   INPUT);
+  pinMode(ledpin2, OUTPUT);
+  pinMode(lightpin2,   INPUT);
 }
-
 void loop() {
-  // put your main code here, to run repeatedly:
-
+  int lightsens = analogRead(lightpin);
+  int lightsens2 = analogRead(lightpin2); // reads   analog data from light sensor
+  if (lightsens < LIGHT) {
+    digitalWrite(ledpin,   HIGH); //turns led on
+    delay(1000);
+  }
+  else {
+    digitalWrite(ledpin,   LOW);
+  }
+  if (lightsens2 < LIGHT2) {
+    digitalWrite(ledpin2,  HIGH);
+    delay(1000);
+  }
+  else {
+    digitalWrite(ledpin2,   LOW);
+  }
 }
-```
+
+///
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
