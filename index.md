@@ -49,7 +49,8 @@ For your second milestone, explain what you've worked on since your previous mil
 The project that I am working on is called the automatic street light. This project consists of a photoresistor(LDR) to detect the amounts of light around the sensor, and an LED. When the LDR detects high levels of light, the LED remains turned off to not waste energy, and when it detects low light in the surrounding areas the LED automaticaly turns on so that you would be able to see if it was night, or just very dark. So far, I have finished the base model of my project along with adding a second sensor for a second LED. The challenges that I faced mostly rose from that I have never used a arduino or breadboard before, and I came in to this project having very little experience with coding. However, throughout the course of my milestones i'll definitely overcome those challenges with experience. I am planning to complete my project by 3D printing a small version of a lamp post to make the project look like a final product and complete.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+<img width="1257" height="527" alt="image" src="https://github.com/user-attachments/assets/c873f6c4-9581-4a6f-b266-85af9dd34646" />
+
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
