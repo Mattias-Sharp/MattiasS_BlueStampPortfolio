@@ -54,7 +54,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
-///
+\\\
 
 const   int ledpin = 13; // ledpin and lightpin are not changed throughout the process
 const   int lightpin = A2;
@@ -88,7 +88,7 @@ void loop() {
   }
 }
 
-///
+\\\
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
