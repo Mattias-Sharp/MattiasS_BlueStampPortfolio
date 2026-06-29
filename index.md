@@ -1,5 +1,5 @@
 # Automatic Street Lighting
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+The automatic street lighting is exactly what it sounds like, automaticaly turns on. It works by a photoresitor measuring the amount of light and if it reads below a certain level of light, the LED turns on. I had a lot of new experiences and struggled a lot of the time, but suceeded in the end.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
