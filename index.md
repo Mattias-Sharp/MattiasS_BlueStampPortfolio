@@ -57,7 +57,7 @@ The project that I am working on is called the automatic street light. This proj
 # Code
 <!---Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. -->
 
-\\\
+'''
 
 const   int ledpin = 13; // ledpin and lightpin are not changed throughout the process
 const   int lightpin = A2;
@@ -91,7 +91,7 @@ void loop() {
   }
 }
 
-\\\
+'''
 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
@@ -105,8 +105,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+- [Smart Street Light](https://projecthub.arduino.cc/angadiameya007/smart-street-light-6ad038)
+- [PIR Sensor](https://projecthub.arduino.cc/electronicsfan123/interfacing-arduino-uno-with-pir-motion-sensor-593b6b)
+- [Tinkercad](https://www.tinkercad.com/things/5Kf0tQV9aa7-mattiassharpstreetlightbase/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d)
 
 To watch the BSE tutorial on how to create a portfolio, click here.
