@@ -1,5 +1,5 @@
 # Automatic Street Lighting
-The automatic street lighting is exactly what it sounds like, the light automaticaly turns on. It works by a photoresitor measuring the amount of light and if it reads below a certain level of light, the LED turns on. This goes along with a 3D printed miniture street lamp, so that I can simulate a real street lamp. I had a lot of new experiences such as soldering and 3D modeling, and had some struggles also, but suceeded in the end.
+The automatic street lighting is exactly what it sounds like, the light automaticaly turns on. It works by a photoresitor measuring the amount of light and if it reads below a certain level of light, the LED turns on. This goes along with a 3D printed miniature street lamp, so that I can simulate a real street lamp. I had a lot of new experiences such as soldering and 3D modeling, and had some struggles also, but suceeded in the end.
 
 <!---You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions: -->
 ```HTML 
