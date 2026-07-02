@@ -31,15 +31,11 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ndadanU3ih4?si=dqBEQvf3IBNPAPd7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+For my second milestone, I transitioned my original wiring on the breadboard to become more secure and look cleaner by soldering it onto a perf board. By doing this, it will reduce the size of the things that I have to fit into the 3D model of a street light. I also added a second LED that is also connected to the same photoresistor, this is because I may end up printing two models of the light to make it more like a street. Something that has been surprising so far was when I made the circuit without a resistor, and the big LED that I had connected blew up and shot across the table. Some of the challenges that I had came from having no prior soldering experience, for this reason I had to keep soldering and desoldering the wires because I would always accidentaly connect two wires together that I didn't want to since they were very close together, but this was overcame by experience through the process. Another challenge I had was that I had to map out many times where the wires, photoresistor, and LED would be on the perf board would go so I minimised my chances of messing it. I overcame this challenge by simply creating another replica of the schematic onto another breadboard and just copping it straight onto the perf board. Another aspect of the wiring that I had to do was making really long connector wires for the LED so that it could reach the top the the lamp post, because the arduino and the perf board would be put into the base of the project. For my final milestone, I need to 3D model a model of a street light that will fit the dimensions of the arduino and perf board, and then print it.
 
 # First Milestone
 
