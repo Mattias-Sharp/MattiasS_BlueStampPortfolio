@@ -105,7 +105,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Perf board | More secure than a breadboard | $17 | <a href="https://www.amazon.com/EPLZON-Solderable-Breadboard-Gold-Plated-Electronics/dp/B0D5XL9BKR/"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
+<!--One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.-->
 - [Smart Street Light](https://projecthub.arduino.cc/angadiameya007/smart-street-light-6ad038)
 - [PIR Sensor](https://projecthub.arduino.cc/electronicsfan123/interfacing-arduino-uno-with-pir-motion-sensor-593b6b)
 - [Tinkercad](https://www.tinkercad.com/things/5Kf0tQV9aa7-mattiassharpstreetlightbase/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d)
