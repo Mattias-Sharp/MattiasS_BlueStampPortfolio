@@ -108,4 +108,4 @@ One of the best parts about Github is that you can view how other people set up 
 - [PIR Sensor](https://projecthub.arduino.cc/electronicsfan123/interfacing-arduino-uno-with-pir-motion-sensor-593b6b)
 - [Tinkercad](https://www.tinkercad.com/things/5Kf0tQV9aa7-mattiassharpstreetlightbase/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
+<!--To watch the BSE tutorial on how to create a portfolio, click here.-->
