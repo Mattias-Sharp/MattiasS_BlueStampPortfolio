@@ -27,6 +27,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 - Through this experience I learned more problem solving such as having to use the Vin socket on the arduino because my ground socket was fried. I aso learned some kills like cadding and ho to and my print and hot glue parts of it together.
 - What you hope to learn in the future after everything you've learned at BSE
 
+  
+
 
 
 # Second Milestone
