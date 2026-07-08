@@ -19,11 +19,11 @@ The automatic street lighting is exactly what it sounds like, the light automati
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQDgiRVNDlc?si=A4kRyRymri3rT65u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
+- Since my last milestone, I have spent a lot of time cadding(3D modeling) and waiting for my street lamp to 3D print. Also one of the ground sockets on my arduino basically got short circuited and didn't work anymore so I had to work around that.
+- with my first time 3D modeling came a lot of time learning how to do it and many problems that I had to learn such as how to make holes in other shapes, or to makes the shapes hollow, but perfection comes from experience sso it took a while. Some wires in the perf board that I souldered together stopped working so I had to make another replica of the wiring on a different breadboard and use that instead.
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
