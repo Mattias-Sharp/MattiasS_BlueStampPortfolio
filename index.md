@@ -1,5 +1,5 @@
 # Automatic Street Lighting
-The automatic street lighting is exactly what it sounds like, the light automaticaly turns on. It works by a photoresitor measuring the amount of light and if it reads below a certain level of light, the LED turns on. This goes along with a 3D printed miniature street lamp, so that I can simulate a real street lamp. I had a lot of new experiences such as soldering and 3D modeling, and had some struggles also, but suceeded in the end.
+The automatic street lighting is exactly what it sounds like, the light automaticaly turns on. It works by using a photoresitor which measuring the amount of light in the space surrounding it, if it reads below a certain level of light, the LED turns on. This goes along with a 3D printed miniature street lamp, so that I can simulate a real street lamp. I had a lot of new experiences such as soldering and 3D modeling, and had some struggles also, but suceeded in the end.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -17,7 +17,7 @@ The automatic street lighting is exactly what it sounds like, the light automati
 
 For your final milestone, explain the outcome of your project. Key details to include are:
 - Since my last milestone, I have spent a lot of time cadding(3D modeling) and waiting for my street lamp to 3D print. Also one of the ground sockets on my arduino basically got short circuited and didn't work anymore so I had to work around that.
-- with my first time 3D modeling came a lot of time learning how to do it and many problems that I had to learn such as how to make holes in other shapes, or to makes the shapes hollow, but perfection comes from experience so it took a while. Some wires in the perf board that I souldered together stopped working so I had to make another replica of the wiring on a different breadboard and use that instead.
+- With my first time 3D modeling came a lot of time learning how to do it and many problems that I had to learn such as how to make holes in other shapes, or to makes the shapes hollow, but perfection comes from experience so it took a while. Some wires in the perf board that I souldered together stopped working so I had to make another replica of the wiring on a different breadboard and use that instead.
 - Through this experience I learned more problem solving such as having to use the Vin socket on the arduino because my ground socket was fried. I aso learned some kills like cadding and ho to and my print and hot glue parts of it together.
 - After these 3 weeks at BSE, I am hoping to continue learning more interesting skills in engineering. Also to use the skills that I have already learned in the future, such as soldering, breadboarding, and cadding.
 
