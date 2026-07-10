@@ -7,7 +7,7 @@ The automatic street lighting is exactly what it sounds like, the light automati
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
-![Headstone Image](<image0.jpeg>)
+![Headstone Image](<Mattias S.heic>)
   
 # Final Milestone
 
