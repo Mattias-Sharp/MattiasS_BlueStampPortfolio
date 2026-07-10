@@ -1,12 +1,6 @@
 # Automatic Street Lighting
 The automatic street lighting is exactly what it sounds like, the light automaticaly turns on. It works by a photoresitor measuring the amount of light and if it reads below a certain level of light, the LED turns on. This goes along with a 3D printed miniature street lamp, so that I can simulate a real street lamp. I had a lot of new experiences such as soldering and 3D modeling, and had some struggles also, but suceeded in the end.
 
-<!---You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions: -->
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
-
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Mattias S | Menlo Atherton High School | Electrical Engineering | Incoming Sophomore 
@@ -17,7 +11,7 @@ The automatic street lighting is exactly what it sounds like, the light automati
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZQDgiRVNDlc?si=A4kRyRymri3rT65u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -58,7 +52,7 @@ The project that I am working on is called the automatic street light. This proj
 <img width="1257" height="527" alt="image" src="https://github.com/user-attachments/assets/c873f6c4-9581-4a6f-b266-85af9dd34646" />
 
 -This is my schematic for the 3D printed street lamp.
-<img width="527" height="1257" alt="image" src="Screenshot 2026-06-25 163833.png" />
+<img width="625" height="1257" alt="image" src="Screenshot 2026-06-25 163833.png" />
 
 # Code
 <!---Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. -->
